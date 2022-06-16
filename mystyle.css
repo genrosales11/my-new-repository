@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(255, 115, 0);
+}
+.header{
+    position: fixed;
+    width:100%;
+    height:100%''
+    font-type: bold;
+    text-align:center;
+    background-color: brown;
+    transition: 0.3s;
+    color:black;
+    padding: 20px
+
+
+}
+}
